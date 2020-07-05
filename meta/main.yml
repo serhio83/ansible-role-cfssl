@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: Serhio
+  description: Installs CFSSL PKI toolkit
+  company: FBS
+  license: BSD
+  min_ansible_version: 2.8
+  platforms:
+    - name: EL
+      versions:
+        - 7
+  galaxy_tags:
+    - tls
+    - certificate
+    - ca
+    - security
+dependencies: []
